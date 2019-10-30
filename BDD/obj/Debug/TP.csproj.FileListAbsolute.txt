@@ -1,0 +1,12 @@
+C:\BASES DE DATOS\BDD\BDD\bin\Debug\BDD.exe.config
+C:\BASES DE DATOS\BDD\BDD\bin\Debug\BDD.exe
+C:\BASES DE DATOS\BDD\BDD\bin\Debug\BDD.pdb
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\TP.csprojAssemblyReference.cache
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\BDD.FormPrincipal.resources
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\BDD.FormSP.resources
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\BDD.FormVista.resources
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\BDD.Properties.Resources.resources
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\TP.csproj.GenerateResource.cache
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\BDD.exe
+C:\BASES DE DATOS\BDD\BDD\obj\Debug\BDD.pdb
